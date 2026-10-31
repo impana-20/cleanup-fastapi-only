@@ -1,0 +1,295 @@
+=== BEGIN COMPANY INFORMATION ===
+NIVORA VERIFIED COMPANY INFORMATION
+
+Purpose:
+Use only the company information and policies explicitly confirmed in this file or in an approved company FAQ knowledge base. Do not invent missing details. If information is unavailable, explain that it has not been confirmed and direct the user to the official customer-support channel once that channel is provided.
+
+1. Legal company name:
+NAOSUHIVE PRIVATE LIMITED.
+
+2. Company history / founding date:
+The company information provided for this project states that NaosuHive Private Limited was incorporated on 18 September 2026. Do not claim that this is necessarily the founding date of the Nivora brand. Any earlier Nivora development history must be confirmed by the company.
+
+3. CEO / founder name and title:
+The project-provided company information identifies Chandrashekar Reddy Madhusudhan as CEO and Director. Public company records independently list him as a director. Use the CEO title only if it has been confirmed by the company.
+Other director names must only be provided when relevant and approved for public disclosure.
+
+4. Official website / customer-support contact:
+Not yet verified in this file. Do not invent a website, email address, phone number, support hours, or social media account. Direct users to the official support channel once the company confirms it.
+
+5. Return and refund policy:
+The official Nivora return and refund policy has not been verified in this file. Do not promise a return window, refund eligibility, refund timeline, fees, or refund method. Explain that the applicable policy must be confirmed through official support.
+
+6. Cancellation policy:
+The official cancellation policy has not been verified. Do not promise that an order can be cancelled or that a cancellation or refund has been completed. Order cancellation requires a verified order-management integration or confirmation from authorized support.
+
+7. Delivery areas and delivery timelines:
+Official delivery coverage and delivery timelines have not been verified. Do not promise delivery dates, serviceability, shipping fees, or dispatch times. Check an approved source or direct the customer to official support.
+
+8. Warranty / damaged-product process:
+The official warranty and damaged-product procedures have not been verified. Do not promise warranty coverage, replacement, repair, or compensation. Ask the customer to contact official support for the confirmed process.
+
+9. Personal information and privacy:
+If a user asks for a person's name, phone number, personal mobile number, private email address, home address, or other personal details, disclose only information explicitly approved for public disclosure and relevant to the request. Never invent, infer, or expose private contact details or confidential employee/customer information. Do not provide personal phone numbers or private contact details. Direct private-contact requests to the official company support channel.
+
+Never ask users to share passwords, one-time passwords (OTPs), CVVs, full payment-card numbers, API keys, or other secret credentials.
+
+10. Live operations:
+Do not claim to have checked live order status, stock, delivery tracking, payments, cancellations, refunds, or support tickets unless the relevant verified integration is available and has returned a successful result. Never say an action has been completed when it has not.
+
+11. Knowledge-base limitations:
+The Nivora FAQ text file may contain proposed answers for questions whose official policies are still pending confirmation. Treat proposed policies as drafts, not as approved company policy. The DemoShop sample policy is not an official Nivora policy.
+
+12. Missing-information response:
+When the answer is not confirmed, say:
+"I'm sorry, but I don't have verified information about that yet. Please check with Nivora's official customer-support team for the correct details."
+
+Update this file only when the company confirms additional official information.
+=== END COMPANY INFORMATION ===
+
+=== BEGIN NIVORA FAQ KNOWLEDGE BASE ===
+NIVORA CUSTOMER CHATBOT — FAQ KNOWLEDGE BASE
+Draft for internal review — prepared 29 October 2026
+Version: 0.1 (NOT APPROVED FOR CUSTOMER-FACING POLICY USE)
+
+IMPORTANT USAGE RULES
+1. Company and policy facts must come only from verified, company-approved sources or the connected product catalogue.
+2. The sample DemoShop policy is not official Nivora policy. Never describe its terms as Nivora's official policy.
+3. Several answers below are safe chatbot responses or proposed workflows because official details were not supplied. Do not present proposed return windows, refund timelines, fees, eligibility rules, or service-level targets as confirmed policy until an authorized Nivora representative approves them.
+4. If the answer is not present in this file or another approved connected source, say you do not have verified information and direct the customer to Nivora's official website/support channel. Do not guess.
+5. PRIVACY / PERSONAL INFORMATION RULE: If a user asks for any person's name, phone number, personal mobile number, personal email address, home address, private contact details, or other personal information, disclose only information that is explicitly approved for public/business use in the verified company source. Never reveal, infer, search for, or invent a person's private phone number or other private contact information. A person's name or job title may be shared only if it is explicitly listed in approved company information and appropriate to the question. Do not reveal employee/customer personal data. Direct requests for private contact details to the official company support channel.
+6. Never ask for or reveal passwords, OTPs, CVVs, full payment-card numbers, API keys, or other secrets. Do not claim to access live orders, payments, refunds, inventory, cancellations, or support tickets unless the corresponding approved integration is actually connected and has confirmed the result.
+7. This FAQ is a development draft, not a substitute for legal review or company approval.
+
+1. COMPANY INFORMATION
+
+Q1. What is Nivora's full official/legal company name?
+A: The supplied questionnaire lists the legal company name as NaosuHive Private Limited.
+
+Q2. What does Nivora do, and what products/services does it offer?
+A: The supplied questionnaire describes Nivora as a smart AI-powered product and automation vertical under NaosuHive Private Limited, focused on conversational AI, customer-service automation chatbots, and digital business tools designed to support business operations and customer experiences.
+
+Q3. When was Nivora founded? What is its company history?
+A: The supplied questionnaire states that NaosuHive Private Limited was incorporated on 18 September 2026 and that earlier digital/software product development began under the Nivora ecosystem brand. Use this description only as supplied; ask the company to confirm it before treating it as approved public copy.
+
+Q4. Who are the founders and CEO?
+A: The supplied questionnaire lists Chandrashekar Reddy Madhusudhan as CEO & Director, Shobha Muniswamy as Director, and Santha Kumari Buddala as Director. It also lists Syed Imran and Karre Rishi as initial founding members. Share these names/titles only when relevant and approved for public disclosure. Never provide their private phone numbers, personal email addresses, home addresses, or other private contact details. Direct contact requests to official company channels.
+
+Q5. What is Nivora's official website?
+A: A verified official website URL was not provided in the source questionnaire. Say: "I don't have a verified official website link available here. Please refer to Nivora/NaosuHive's official corporate channels." Do not invent a URL.
+
+Q6. What are the official customer-support email, phone number, Help Center URL, support hours, and holidays?
+A: These details have not been verified in the supplied information. Say: "I don't have verified customer-support contact details or support hours available. Please use the contact details published on Nivora's official website." Do not invent contact information or share employees' private numbers.
+
+2. PRODUCTS AND CATALOGUE
+
+Q7. What product categories does Nivora offer?
+A: Use the categories available in the current connected product catalogue. Do not claim the list is complete unless the catalogue owner confirms it. If no match is found, say the category could not be verified.
+
+Q8. What is the approved source for product names, descriptions, prices, sizes, colours, stock, and images?
+A: Use the latest company-approved product master workbook/catalogue for the fields it contains. Use approved image URLs from that source. Do not claim live stock availability unless a working inventory integration confirms it.
+
+Q9. Which price should the chatbot display if multiple prices are listed?
+A: Proposed rule requiring company approval: display the clearly designated customer-facing selling price. If prices conflict or no selling price is clearly designated, say the price needs confirmation rather than choosing arbitrarily.
+
+Q10. Should "show all UPVC products" return every matching product?
+A: Proposed rule requiring approval: return all matching products through pagination or a "Load more" option. Show a manageable first page and make clear that more results are available. Do not imply the first page contains every result.
+
+Q11. What should the chatbot say if a product, specification, price, or image is missing?
+A: Say: "I couldn't verify that detail in the current product catalogue. Please check the official product listing or contact Nivora support for confirmation." Do not guess specifications, prices, stock, or image URLs.
+
+3. RETURNS
+
+Q12. What is the approved return window, and from which date is it calculated?
+A: The official return window and its start date have not been confirmed. A 7-calendar-day window was suggested as a draft for review only; it is NOT confirmed Nivora policy. Until approved, say: "I don't have Nivora's verified return window available. Please contact official support to confirm whether your item is eligible."
+
+Q13. Which items are eligible or excluded from returns?
+A: Official eligibility and exclusions have not been confirmed. Any proposed exclusions, such as customized, installed, used, or misuse-damaged items, must be approved for the relevant product categories and must comply with applicable law. Do not make a final eligibility decision without verified policy.
+
+Q14. What condition must a returned item be in? Are packaging, tags, accessories, manuals, serial labels, or proof of purchase required?
+A: The exact requirements have not been confirmed. As a safe interim suggestion, ask customers to retain the product, packaging, accessories, manuals, serial labels, and proof of purchase where available until support provides instructions. Do not automatically reject a request based on an unverified rule.
+
+Q15. How does a customer request a return?
+A: The official process and support URL have not been supplied. Safe suggested workflow: ask the customer to have their order ID, affected item, and reason ready, and contact Nivora through its official support channel. Support must verify eligibility and provide return instructions. Do not invent a website/app path or contact details.
+
+Q16. Is return pickup available? Who pays return shipping? Are fees or deductions applicable?
+A: These rules have not been confirmed. Support must confirm pickup availability, shipping responsibility, and any fees or deductions. Do not promise free pickup or state a fee without approved policy.
+
+Q17. How long does inspection take, and how is the customer informed?
+A: No approved inspection timeline was supplied. Any proposed target such as 3–5 business days is only a draft suggestion and must not be presented as a commitment. Say: "The inspection timeline depends on the support review. Please contact official support for an update."
+
+4. REFUNDS
+
+Q18. Under what conditions is a refund approved?
+A: Official refund eligibility rules have not been supplied. Say that refund approval depends on the applicable approved policy and review of the case. Do not guarantee approval.
+
+Q19. What are the steps from return request to refund completion?
+A: General suggested workflow, subject to approval: submit the request and order ID; support checks eligibility; the customer follows approved return instructions if required; inspection occurs if applicable; support communicates the decision; an approved refund is initiated through the authorized process; confirmation is provided. This is not a confirmed Nivora procedure.
+
+Q20. What are the timelines for inspection, approval, refund initiation, and bank/payment-provider processing?
+A: Verified timelines have not been supplied. Bank and payment-provider processing may vary. Do not promise a number of days; direct the customer to official support for the applicable timeline.
+
+Q21. Which payment method is used for refunds? How are cash-on-delivery orders refunded?
+A: The approved refund method, including for cash-on-delivery orders, has not been confirmed. Support must explain the authorized method through an official secure channel. Never ask for card details, CVV, passwords, or OTPs in chat.
+
+Q22. Are shipping fees, taxes, discounts, or partial-order amounts refundable?
+A: The approved rules have not been supplied. Refund treatment must follow the official policy, order details, and applicable law. Do not promise that shipping fees, taxes, discounts, or all partial-order amounts are refundable or non-refundable without verified rules.
+
+Q23. What should customers do if a refund is delayed, rejected, or not visible?
+A: Ask the customer to check any refund confirmation and their payment-provider statement, then contact official support with the order ID and refund reference if available. Do not request sensitive payment credentials. Escalate disputed cases to a human agent.
+
+Q24. Can the chatbot check live refund status?
+A: No live refund-status integration has been confirmed. Say: "I can't check live refund status from this chat yet. Please check your official order/payment records or contact Nivora support." Never claim a refund has been initiated or completed without system confirmation.
+
+5. DAMAGED, DEFECTIVE, MISSING OR INCORRECT ITEMS
+
+Q25. How soon must customers report these issues?
+A: The official reporting deadline has not been confirmed. Encourage customers to report the issue as soon as possible. Do not automatically reject a later report based on an unverified deadline.
+
+Q26. What information/photos/documents should customers provide?
+A: Ask for the order ID, affected product, a brief description, and relevant photos of the item, packaging, shipping label, or missing parts if appropriate. Request only information needed to investigate. Never request passwords, OTPs, CVVs, or full card numbers.
+
+Q27. What remedies may be offered: repair, replacement, missing-part shipment, return, or refund?
+A: Available remedies depend on the verified policy, product, and case review. Possible options for support to consider may include repair, replacement, missing-part shipment, return, or refund, but the chatbot must not promise a particular remedy before confirmation.
+
+Q28. What should customers do with the product and packaging while the case is reviewed?
+A: As a general precaution, ask the customer to keep the item, packaging, labels, and included parts safely and avoid installing, modifying, or disposing of them until support provides instructions, where practical.
+
+6. EXCHANGES AND REPLACEMENTS
+
+Q29. Which products can be exchanged, and within what time window?
+A: Official exchange eligibility and time limits have not been confirmed. A 7-calendar-day window was suggested for review only and is NOT confirmed Nivora policy. Say: "I can't confirm the exchange window or eligibility from the verified information available. Please contact official support with your order details."
+
+Q30. Can customers exchange size/colour/product? How are price differences handled?
+A: The approved rules have not been supplied. Exchange availability depends on eligibility and stock. Support must confirm any price difference, shipping charge, or refund before the exchange is finalized. Do not guarantee an exchange.
+
+Q31. What happens if a replacement is unavailable? What is the expected timeline?
+A: The official process and timelines have not been confirmed. Support should explain the available approved alternatives, if any. Do not promise a restock date, replacement, or refund without confirmation.
+
+7. CANCELLATIONS AND ORDER CHANGES
+
+Q32. Until what order status can a customer request cancellation?
+A: The official cancellation cutoff has not been confirmed. Do not promise cancellation. Explain that options depend on order status and ask the customer to contact official support promptly.
+
+Q33. How does a customer request cancellation?
+A: The official cancellation path has not been supplied. Ask the customer to use the official order page or support channel with their order ID. Do not claim that the order was cancelled unless a connected system confirms it.
+
+Q34. Can customers change an address, quantity, or product after placing an order?
+A: The approved rules have not been supplied. Changes may depend on order processing and dispatch status. Direct the customer to official support promptly; do not claim a change is complete without confirmation.
+
+Q35. Can an order be cancelled after dispatch?
+A: The options depend on approved policy and carrier/order status. Ask the customer to contact official support. Do not promise cancellation or rule out all options without verified information.
+
+Q36. If a prepaid order is successfully cancelled, how and when is the refund handled?
+A: The approved refund method and timeline have not been supplied. Once cancellation and refund eligibility are confirmed, support should explain the authorized process. Do not promise a timeline.
+
+Q37. Can the chatbot cancel/change an order directly?
+A: No order-management integration has been confirmed. The chatbot must not claim to cancel or modify orders. Direct the customer to the official order page or support channel.
+
+8. SHIPPING, DELIVERY AND TRACKING
+
+Q38. Which states, cities, regions, or PIN codes does Nivora deliver to?
+A: No verified delivery-area list was supplied. Ask the customer to check delivery availability through the official checkout/serviceability checker or contact support.
+
+Q39. What are standard and express delivery timelines?
+A: No universal delivery timeline was supplied. Use only the estimate shown for the specific order/address in the official checkout or shipping confirmation.
+
+Q40. How are shipping charges calculated? Are there free-delivery thresholds or exceptions?
+A: No approved shipping-fee schedule or free-delivery threshold was supplied. Refer to the charge shown at official checkout; do not invent a fee or threshold.
+
+Q41. Which courier/logistics providers are used, and where can customers track orders?
+A: Use the courier name and tracking link in the official shipping confirmation. No approved courier list or tracking URL was supplied.
+
+Q42. What should customers do if delivery is delayed or tracking has not updated?
+A: Ask the customer to check the official tracking link. If the estimated date has passed or tracking remains unchanged, contact official support with the order ID. Do not invent a new delivery date.
+
+Q43. What should customers do if a parcel is marked delivered but was not received?
+A: Suggest checking with household members, reception/security, and the delivery location, then promptly contacting official support with the order ID and tracking details. Do not claim the parcel was recovered or promise a refund.
+
+Q44. What happens after failed delivery attempts or if the address is incorrect?
+A: The outcome depends on courier and order status. Ask the customer to contact official support promptly. Do not promise redelivery, address changes, or a specific number of attempts.
+
+Q45. Can the chatbot retrieve live tracking/order status?
+A: No live order-tracking integration has been confirmed. Say: "I can't access live order tracking from this chat yet. Please use the tracking link in your official shipping confirmation or contact Nivora support."
+
+9. PAYMENTS, PRICING AND INVOICES
+
+Q46. Which payment methods are supported?
+A: Use only the payment methods currently displayed on the official checkout page. No complete approved payment-method list was supplied.
+
+Q47. What should customers do if payment fails, money is deducted without order confirmation, or payment is duplicated?
+A: Ask the customer to check their order confirmation and payment-provider status, then contact official support with the order/transaction reference if available. Never request an OTP, password, CVV, or full card number. Do not claim payment succeeded or failed without confirmation.
+
+Q48. How can customers download an invoice or receipt?
+A: Suggested guidance: check the official order details/account area or order-confirmation email. If unavailable, contact official support with the order ID. The exact website/app path must be confirmed before publishing it as a definitive instruction.
+
+Q49. What are the approved rules for discounts, coupons, promotions, taxes, and fees?
+A: Follow only the terms shown in official promotions and checkout, including eligibility, expiry, stacking, taxes, and fees. Do not invent coupon codes or guarantee discounts.
+
+Q50. Can the chatbot verify live payment status?
+A: No live payment-verification integration has been confirmed. The chatbot must not claim to verify payment status. Direct the customer to official order confirmation, their payment provider, or official support.
+
+10. WARRANTY AND REPAIRS
+
+Q51. Which products have warranties, and where are terms published?
+A: Use approved product-specific warranty documents or manufacturer terms. No complete warranty list was supplied; do not imply every product has a warranty.
+
+Q52. What are warranty durations, coverage, exclusions, and claim deadlines by product/category?
+A: These details must come from approved product-specific terms. If they are unavailable, direct the customer to official support or the manufacturer. Do not guess duration or coverage.
+
+Q53. How does a customer submit a warranty/repair claim, and what proof is required?
+A: Suggested workflow: contact official support with order/proof of purchase, product details, serial number if applicable, issue description, and relevant photos. Support confirms the exact requirements and authorized claim route. Do not request unnecessary personal or payment data.
+
+Q54. Are there authorized service centres or manufacturer contacts?
+A: Use only the authorized service-centre list or manufacturer contacts in approved warranty documentation. No verified list was supplied. Do not invent contacts or disclose private personal numbers.
+
+11. CUSTOMER SUPPORT AND COMPLAINTS
+
+Q55. What should the chatbot say when a customer wants a human agent?
+A: "I can't transfer you directly to an agent from this chat yet. Please use the customer-support contact details published on Nivora's official website. I can still try to help with the verified information available here."
+
+Q56. What is the official complaint process and expected acknowledgement/resolution timeline?
+A: No approved complaint procedure or service-level agreement was supplied. Suggested workflow for approval: collect the order/reference ID and issue summary, route it to support, and provide a case reference if the ticketing system supports it. Do not promise a deadline until approved.
+
+Q57. How can unresolved complaints be escalated?
+A: Ask the customer to use the official support channel and request review by the appropriate complaints team/supervisor. No approved escalation contact, URL, or timeline was supplied. Do not invent contact details or share employees' private numbers.
+
+Q58. Can the chatbot create support tickets?
+A: No ticket-creation integration has been confirmed. Do not claim a ticket has been created. Direct the customer to the official support channel.
+
+12. PRIVACY AND SECURITY
+
+Q59. What are the official privacy-policy and terms-and-conditions links?
+A: Use only links published on Nivora's verified official website. No verified URLs were supplied; do not invent links.
+
+Q60. What customer information may the chatbot request, and what must it never request?
+A: The supplied questionnaire permits standard context details such as Order ID, Name, or Email where needed. Ask only for the minimum information necessary. Never request passwords, OTPs, CVVs, or full credit/debit card numbers. Do not expose customer data to other users.
+
+Q61. Which questions or situations must always be escalated to a human?
+A: Suggested escalation rule requiring company approval: refund disputes, suspected fraud, payment discrepancies, unsafe/damaged products, legal threats, privacy/data requests, repeated failed resolution, policy exceptions, and cases requiring account/order changes. Never collect secrets or promise an outcome.
+
+13. APPROVED SOURCES AND SIGN-OFF
+
+Q62. List approved FAQ/policy documents, website pages, or internal knowledge sources.
+A: The supplied questionnaire and sample DemoShop policy are development references. The DemoShop sample policy is NOT official Nivora policy. The company should identify the approved Nivora FAQ, product master catalogue, official policy pages, warranty documents, and support procedures. Only approved sources should be used for customer-facing policy answers.
+
+Q63. Who approves policy changes, and how will the chatbot owner be informed?
+A: Proposed process for approval: a designated Nivora/NaosuHive policy owner approves changes in writing and sends the dated/versioned document to the chatbot owner through the approved internal channel. The actual approver and channel have not been confirmed.
+
+Q64. Approved version/effective date:
+A: Draft version 0.1, prepared 29 October 2026 for internal review. This is not an approved policy version or effective date.
+
+Q65. Name/team and title of approver:
+A: Not supplied. The authorized approver's name/team and title must be confirmed before this FAQ is treated as official.
+
+Q66. Approval date:
+A: Not yet approved. Record the actual date on which the authorized approver signs off.
+
+Q67. Other approved customer questions and answers:
+A: Suggested FAQ — "Can the chatbot access live order status?" Answer: "Not currently. Please use the official tracking link or contact Nivora support." Suggested FAQ — "Are the sample return/refund rules official?" Answer: "No. Nivora's official rules will be shared only after the company approves them."
+
+END OF FAQ KNOWLEDGE BASE
+
+IMPLEMENTATION NOTE
+This TXT file provides FAQ text for retrieval or prompt context. Live order tracking, payment verification, cancellation, refund processing, stock checks, and ticket creation require working backend integrations/APIs. Do not claim these actions have happened unless an approved integration confirms success. Keep the original UI unchanged when integrating this knowledge base, and test both normal FAQs and fallback behavior.
+=== END NIVORA FAQ KNOWLEDGE BASE ===

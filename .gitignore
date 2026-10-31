@@ -1,0 +1,17 @@
+@'
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyc
+*.xlsx
+*.xls
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.log
+'@ | Set-Content .gitignore

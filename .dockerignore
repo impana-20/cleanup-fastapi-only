@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.git/
+.pytest_cache/
+tests/
+*.xlsx
+*.pdf
+*.docx
+static/
